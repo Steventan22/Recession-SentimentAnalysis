@@ -1,7 +1,7 @@
 # Recession-SentimentAnalysis
 
 ## Overview
-In the current era, global recession news dominates social media platforms, particularly in Indonesia. Social news platforms like Twitter play a pivotal role in disseminating information, generating public responses, and sparking discussions on the issue. This collaborative research, led by one dedicated faculty member and five enthusiastic students, focuses on mining public opinions from Twitter using a sentiment analysis approach to gain invaluable insights into the collective sentiment towards global recession news.
+In the current era, global recession news dominates social media platforms, particularly in Indonesia. Social news platforms like Twitter play a pivotal role in disseminating information, generating public responses, and sparking discussions on the issue. This collaborative research, led by two dedicated faculty members and five enthusiastic students, focuses on mining public opinions from Twitter using a sentiment analysis approach to gain invaluable insights into the collective sentiment towards global recession news.
 
 ## Background
 Understanding public sentiment towards global economic events is crucial for policymakers, investors, and the general public. With the prevalence of social media, particularly Twitter, analyzing the sentiments expressed by users provides real-time insights into public reactions and concerns. The research aims to uncover and evaluate sentiments related to global recession news circulating on Twitter in Indonesia.
